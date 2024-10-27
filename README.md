@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bubbaandy89
-- 👀 I’m interested in Building stable systems filled with features
+- 👋 Hi, I’m Andy Arp
+- 👀 I’m interested in Building stable, highly available, and extensible systems filled with features
 - 🌱 I’m currently learning how to make my code easier to read while building in complexity
 - 💞️ I’m looking to collaborate on other python based services
 - 📫 How to reach me bubbaandy89@gmail.com
